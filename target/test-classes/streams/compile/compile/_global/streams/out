@@ -1,8 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\danie\Desktop\University\fourthYear\semsterB\ProgramLanguages\akka-http-quickstart-java\src\main\java\com\example\QuickstartApp.java:359:1: cannot find symbol[0m
-[0m[[0m[31merror[0m] [0m[0m  symbol:   method failedFuture(java.lang.Throwable)[0m
-[0m[[0m[31merror[0m] [0m[0m  location: class java.util.concurrent.CompletableFuture[0m
-[0m[[0m[31merror[0m] [0m[0mCompletableFuture.failedFuture[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\danie\Desktop\University\fourthYear\semsterB\ProgramLanguages\akka-http-quickstart-java\src\main\java\com\example\QuickstartApp.java:370:1: cannot find symbol[0m
-[0m[[0m[31merror[0m] [0m[0m  symbol:   method failedFuture(java.lang.Throwable)[0m
-[0m[[0m[31merror[0m] [0m[0m  location: class java.util.concurrent.CompletableFuture[0m
-[0m[[0m[31merror[0m] [0m[0mCompletableFuture.failedFuture[0m
